@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Profile_pic](https://i.imgur.com/EZfpfTB.jpg)<br>
 Welcome to my github page. My name is Jae Sohn, and I am a Full Stack Developer.
 
 ### Portfolio
@@ -23,7 +24,7 @@ Check out my portfolio page to see some of the projects that I have worked on.<b
 - ... and learning more
 
 
-## Currently working on:
+## Currently working on
 
 - PHP
 - Typescript
