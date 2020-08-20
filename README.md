@@ -1,16 +1,34 @@
 ### Hi there 👋
+Welcome to my github page. My name is Jae Sohn, and I am a Full Stack Developer.
 
-<!--
-**jsohnfile/jsohnfile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Portfolio
+Check out my portfolio page to see some of the projects that I have worked on.
+[Portfolio](https://www.jaesohn.com)
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- NodeJS
+- ExpressJS
+- MongoDB/Mongoose
+- EJS
+- CSS
+- HTML
+- ReactJS
+- JavaScript
+- jQuery
+- Django
+- Python
+- PostgreSQL
+- MySQL
+- ... and learning more
+
+
+## Currently working on:
+
+- PHP
+- Typescript
+
+## Contact Me
+
+Email: jsohnfile@gmail.com
+Linked-In: [https://linkedin.com/in/jaesohn](https://linkedin.com/in/jaesohn)
