@@ -2,7 +2,7 @@
 Welcome to my github page. My name is Jae Sohn, and I am a Full Stack Developer.
 
 ### Portfolio
-Check out my portfolio page to see some of the projects that I have worked on.
+Check out my portfolio page to see some of the projects that I have worked on.<br>
 [Portfolio](https://www.jaesohn.com)
 
 ## Technologies
@@ -30,5 +30,5 @@ Check out my portfolio page to see some of the projects that I have worked on.
 
 ## Contact Me
 
-Email: jsohnfile@gmail.com
+Email: jsohnfile@gmail.com<br>
 Linked-In: [https://linkedin.com/in/jaesohn](https://linkedin.com/in/jaesohn)
