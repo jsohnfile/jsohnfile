@@ -7,13 +7,13 @@ Check out my portfolio page to see some of the projects that I have worked on.<b
 [Portfolio](https://www.jaesohn.com)
 
 ## Projects
-[Sharecipe](https://sharecipe-recipeshare.herokuapp.com)
-[Shoecollector](https://shoecollector.herokuapp.com)
-[Issues That Matter](https://issues-that-matter.herokuapp.com)
-[Trackpaks](https://trackpaks.herokuapp.com)
-[Slack Clone](https://slack-clone-eb04e.web.app/)
-[Twitter Clone](https://twitter-clone-d7a9a.web.app/)
-[Slot Machine Game](https://jsohnfile.github.io/Slot-Machine-Game)
+* [Sharecipe](https://sharecipe-recipeshare.herokuapp.com)
+* [Shoecollector](https://shoecollector.herokuapp.com)
+* [Issues That Matter](https://issues-that-matter.herokuapp.com)
+* [Trackpaks](https://trackpaks.herokuapp.com)
+* [Slack Clone](https://slack-clone-eb04e.web.app/)
+* [Twitter Clone](https://twitter-clone-d7a9a.web.app/)
+* [Slot Machine Game](https://jsohnfile.github.io/Slot-Machine-Game)
 
 ## Technologies
 
